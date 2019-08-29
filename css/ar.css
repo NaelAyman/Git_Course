@@ -1,0 +1,18 @@
+body {
+    direction: rtl;
+    text-align: right;
+}
+
+.apps-download ul li i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.social {
+    text-align: left;
+}
+
+.app-img img {
+    left: 50px;
+    right: auto;
+}
